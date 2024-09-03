@@ -1,6 +1,4 @@
 # Stoichiometry-Calculator
-
-# Overview
 This project is a Stoichiometry Calculator designed to assist in solving chemistry dilution problems using the equation M1V1=M2V2. The calculator also handles unit conversions from mL to L and provides guidance on significant digit rounding to ensure accurate results.
 
 # Features
